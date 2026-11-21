@@ -1,0 +1,10 @@
+node_modules
+dist/
+.vite-cache/
+app/public/data/
+__pycache__/
+*.pyc
+.DS_Store
+example_tables/
+my_tables/
+my_data/
